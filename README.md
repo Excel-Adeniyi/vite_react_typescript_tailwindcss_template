@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # darviews
 
 Developed for Darviews Solutions frontend page
@@ -6,6 +7,8 @@ Developed for Darviews Solutions frontend page
 Contains 
 Home, About, contact, service
 =======
+=======
+>>>>>>> 5dd1f28c0e8f4fd9a92ae1eafa71a4e253483349
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -36,4 +39,7 @@ export default {
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+<<<<<<< HEAD
 >>>>>>> a63a42a (template)
+=======
+>>>>>>> 5dd1f28c0e8f4fd9a92ae1eafa71a4e253483349
